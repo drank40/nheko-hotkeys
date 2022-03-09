@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/matrixclient-subbuild/CMakeFiles/matrixclient-populate"
+		},
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/matrixclient-subbuild/CMakeFiles/matrixclient-populate.rule"
+		},
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/matrixclient-subbuild/CMakeFiles/matrixclient-populate-complete.rule"
+		},
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/matrixclient-subbuild/matrixclient-populate-prefix/src/matrixclient-populate-stamp/matrixclient-populate-build.rule"
+		},
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/matrixclient-subbuild/matrixclient-populate-prefix/src/matrixclient-populate-stamp/matrixclient-populate-configure.rule"
+		},
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/matrixclient-subbuild/matrixclient-populate-prefix/src/matrixclient-populate-stamp/matrixclient-populate-download.rule"
+		},
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/matrixclient-subbuild/matrixclient-populate-prefix/src/matrixclient-populate-stamp/matrixclient-populate-install.rule"
+		},
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/matrixclient-subbuild/matrixclient-populate-prefix/src/matrixclient-populate-stamp/matrixclient-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/matrixclient-subbuild/matrixclient-populate-prefix/src/matrixclient-populate-stamp/matrixclient-populate-patch.rule"
+		},
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/matrixclient-subbuild/matrixclient-populate-prefix/src/matrixclient-populate-stamp/matrixclient-populate-test.rule"
+		},
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/matrixclient-subbuild/matrixclient-populate-prefix/src/matrixclient-populate-stamp/matrixclient-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"matrixclient-populate"
+		],
+		"name" : "matrixclient-populate"
+	}
+}

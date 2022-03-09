@@ -1,0 +1,28 @@
+<RCC>
+ <qresource prefix="/translations">
+  <file>nheko_ca.qm</file>
+  <file>nheko_cs.qm</file>
+  <file>nheko_de.qm</file>
+  <file>nheko_el.qm</file>
+  <file>nheko_en.qm</file>
+  <file>nheko_eo.qm</file>
+  <file>nheko_es.qm</file>
+  <file>nheko_et.qm</file>
+  <file>nheko_fi.qm</file>
+  <file>nheko_fr.qm</file>
+  <file>nheko_hu.qm</file>
+  <file>nheko_id.qm</file>
+  <file>nheko_it.qm</file>
+  <file>nheko_ja.qm</file>
+  <file>nheko_ml.qm</file>
+  <file>nheko_nl.qm</file>
+  <file>nheko_pl.qm</file>
+  <file>nheko_pt_BR.qm</file>
+  <file>nheko_pt_PT.qm</file>
+  <file>nheko_ro.qm</file>
+  <file>nheko_ru.qm</file>
+  <file>nheko_si.qm</file>
+  <file>nheko_sv.qm</file>
+  <file>nheko_zh_CN.qm</file>
+ </qresource>
+</RCC>

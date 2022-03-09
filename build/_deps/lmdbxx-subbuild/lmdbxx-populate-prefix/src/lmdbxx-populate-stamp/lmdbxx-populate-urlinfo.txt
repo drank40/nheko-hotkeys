@@ -1,0 +1,3 @@
+repository='external project URL'
+module='https://raw.githubusercontent.com/hoytech/lmdbxx/1.0.0/lmdb++.h'
+tag=''

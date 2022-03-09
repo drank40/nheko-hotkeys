@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/coeurl-subbuild/CMakeFiles/coeurl-populate"
+		},
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/coeurl-subbuild/CMakeFiles/coeurl-populate.rule"
+		},
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/coeurl-subbuild/CMakeFiles/coeurl-populate-complete.rule"
+		},
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/coeurl-subbuild/coeurl-populate-prefix/src/coeurl-populate-stamp/coeurl-populate-build.rule"
+		},
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/coeurl-subbuild/coeurl-populate-prefix/src/coeurl-populate-stamp/coeurl-populate-configure.rule"
+		},
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/coeurl-subbuild/coeurl-populate-prefix/src/coeurl-populate-stamp/coeurl-populate-download.rule"
+		},
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/coeurl-subbuild/coeurl-populate-prefix/src/coeurl-populate-stamp/coeurl-populate-install.rule"
+		},
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/coeurl-subbuild/coeurl-populate-prefix/src/coeurl-populate-stamp/coeurl-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/coeurl-subbuild/coeurl-populate-prefix/src/coeurl-populate-stamp/coeurl-populate-patch.rule"
+		},
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/coeurl-subbuild/coeurl-populate-prefix/src/coeurl-populate-stamp/coeurl-populate-test.rule"
+		},
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/coeurl-subbuild/coeurl-populate-prefix/src/coeurl-populate-stamp/coeurl-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"coeurl-populate"
+		],
+		"name" : "coeurl-populate"
+	}
+}

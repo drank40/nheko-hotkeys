@@ -1,0 +1,3 @@
+repository='https://nheko.im/Nheko-Reborn/coeurl.git'
+module=''
+tag='origin'

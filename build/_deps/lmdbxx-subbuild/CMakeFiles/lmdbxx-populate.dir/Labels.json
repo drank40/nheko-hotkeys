@@ -1,0 +1,49 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/lmdbxx-subbuild/CMakeFiles/lmdbxx-populate"
+		},
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/lmdbxx-subbuild/CMakeFiles/lmdbxx-populate.rule"
+		},
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/lmdbxx-subbuild/CMakeFiles/lmdbxx-populate-complete.rule"
+		},
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/lmdbxx-subbuild/lmdbxx-populate-prefix/src/lmdbxx-populate-stamp/lmdbxx-populate-build.rule"
+		},
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/lmdbxx-subbuild/lmdbxx-populate-prefix/src/lmdbxx-populate-stamp/lmdbxx-populate-configure.rule"
+		},
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/lmdbxx-subbuild/lmdbxx-populate-prefix/src/lmdbxx-populate-stamp/lmdbxx-populate-copyfile.rule"
+		},
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/lmdbxx-subbuild/lmdbxx-populate-prefix/src/lmdbxx-populate-stamp/lmdbxx-populate-download.rule"
+		},
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/lmdbxx-subbuild/lmdbxx-populate-prefix/src/lmdbxx-populate-stamp/lmdbxx-populate-install.rule"
+		},
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/lmdbxx-subbuild/lmdbxx-populate-prefix/src/lmdbxx-populate-stamp/lmdbxx-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/lmdbxx-subbuild/lmdbxx-populate-prefix/src/lmdbxx-populate-stamp/lmdbxx-populate-patch.rule"
+		},
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/lmdbxx-subbuild/lmdbxx-populate-prefix/src/lmdbxx-populate-stamp/lmdbxx-populate-test.rule"
+		},
+		{
+			"file" : "/home/renny/doc/c++/nheko/build/_deps/lmdbxx-subbuild/lmdbxx-populate-prefix/src/lmdbxx-populate-stamp/lmdbxx-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"lmdbxx-populate"
+		],
+		"name" : "lmdbxx-populate"
+	}
+}

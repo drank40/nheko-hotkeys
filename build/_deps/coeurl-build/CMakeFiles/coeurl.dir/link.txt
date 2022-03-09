@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcoeurl.a CMakeFiles/coeurl.dir/lib/client.cpp.o CMakeFiles/coeurl.dir/lib/request.cpp.o CMakeFiles/coeurl.dir/lib/errors.cpp.o
+/usr/bin/ranlib libcoeurl.a

@@ -1,0 +1,5 @@
+-I/home/renny/doc/c++/nheko
+-I/home/renny/doc/c++/nheko/build
+-o
+/home/renny/doc/c++/nheko/build/src/timeline/moc_RoomlistModel.cpp
+/home/renny/doc/c++/nheko/src/timeline/RoomlistModel.h
